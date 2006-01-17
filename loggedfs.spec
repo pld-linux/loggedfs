@@ -1,5 +1,5 @@
 Summary:	Fuse-based filesystem which can log every operations
-Summary(pl):	-
+Summary(pl):	Bazowany na Fuse system plików loguj±cy ka¿d± operacjê
 Name:		loggedfs
 Version:	0.3
 Release:	0.1
@@ -20,6 +20,8 @@ LoggedFS is a fuse-based filesystem which can log every operations
 that happens in it.
 
 %description -l pl
+LoggedFS to bazowany na fuse system plików loguj±cy ka¿da operacjê
+jaka siê na nim wyda¿y.
 
 %prep
 %setup -q
