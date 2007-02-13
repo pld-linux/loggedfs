@@ -1,5 +1,5 @@
 Summary:	Fuse-based filesystem which can log every operations
-Summary(pl.UTF-8):   Bazowany na Fuse system plików logujący każdą operację
+Summary(pl.UTF-8):	Bazowany na Fuse system plików logujący każdą operację
 Name:		loggedfs
 Version:	0.3
 Release:	0.1
